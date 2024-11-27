@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Bienvenu sur le site de Nanatech</h1>
+    <h1>Branche Ben</h1>
 </body>
 </html>
